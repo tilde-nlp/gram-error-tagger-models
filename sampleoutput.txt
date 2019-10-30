@@ -1,0 +1,17 @@
+Jā	O	O
+mums	O	S-MISSCOMMA
+ir	O	O
+rīcības	O	O
+grafiks	O	O
+.	O	O
+
+mēs	O	O
+visi	O	O
+zinām	O	O
+ka	O	S-MISSCOMMA
+māju	O	O
+būvē	O	O
+no	O	O
+pamatiem	O	O
+.	O	O
+
