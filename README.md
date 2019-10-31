@@ -25,3 +25,6 @@ Daiga Deksne. 2019. Bidirectional LSTM Tagger for Latvian Grammatical Error Dete
 
 ## Acknowledgment
 The research has been supported by the European Regional Development Fund within the project “Neural Network Modelling for Inflected Natural Languages” No. 1.1.1.1/16/A/215.
+
+## Licence
+The models are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
